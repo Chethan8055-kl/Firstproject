@@ -1,12 +1,48 @@
-# React + Vite
+# 🚌 Sukamaya Travels
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sukamaya Travels is a responsive and modern travel agency frontend project built using **React.js** and **Tailwind CSS**. This project showcases a clean UI for displaying tour packages, vehicle details, and navigation features for a travel company website.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔹 Beautiful landing page with a hero section
+- 🔹 Navigation bar with links to Packages, Vehicles, Contact, etc.
+- 🔹 Modern UI built with Tailwind CSS
+- 🔹 Fully responsive design (mobile + desktop)
+- 🔹 Easy to customize for any travel agency
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React.js
+- **Styling**: Tailwind CSS
+- **Build Tool**: Vite or Create React App (whichever you used)
+
+## 🧑‍💻 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/Chethan8055-kl/Firstproject.git
+cd Firstproject
+npm install
+npm start
+
+ Future Enhancements
+Admin panel integration (Spring Boot backend)
+
+User authentication
+
+Booking form and payment gateway
+
+Google Maps integration for travel routes
+
+🤝 Contributing
+Contributions, suggestions, and feedback are welcome!
+Feel free to fork the repo and submit a pull request.
+
+📄 License
+This project is open source and available under the MIT License.
+
+Made with ❤️ by Chethan KL at Adventure Partners
+
+
+
